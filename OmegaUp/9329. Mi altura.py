@@ -2,7 +2,7 @@
 #!/usr/bin/python3
 
 def _main() -> None:
-  height=float(input())
+  height=input()
   print("Tu altura es de {} metros! WOW\n".format(height))
   pass
 
